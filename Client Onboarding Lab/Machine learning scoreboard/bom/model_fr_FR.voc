@@ -1,0 +1,40 @@
+
+# Term: Entrée de modèle ML
+@Entrée\ de\ modèle\ ML#gender = FEMALE
+
+# Term: Sortie de modèle ML
+@Sortie\ de\ modèle\ ML#gender = FEMALE
+
+# usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Input
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Input#concept.label = Entrée de modèle ML
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Input.Input(java.lang.Integer,java.lang.Integer,java.lang.Integer,java.lang.Integer)#phrase.navigation = une nouvelle {Entrée de modèle ML} tel que {0, clientannualrevenue} {1, clientemployeenumber} {2, clientexistenceduration} {3, clientindustry} 
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Input.clientannualrevenue#phrase.action = assigner le clientannualrevenue {this,PARTITIVE_ARTICLE} à {clientannualrevenue}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Input.clientannualrevenue#phrase.addition_setter = ajouter {clientannualrevenue} au clientannualrevenue {this,PARTITIVE_ARTICLE}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Input.clientannualrevenue#phrase.navigation = {clientannualrevenue} {this,PARTITIVE_ARTICLE}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Input.clientannualrevenue#phrase.subtraction_setter = retirer {clientannualrevenue} du clientannualrevenue {this,PARTITIVE_ARTICLE}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Input.clientemployeenumber#phrase.action = assigner le clientemployeenumber {this,PARTITIVE_ARTICLE} à {clientemployeenumber}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Input.clientemployeenumber#phrase.addition_setter = ajouter {clientemployeenumber} au clientemployeenumber {this,PARTITIVE_ARTICLE}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Input.clientemployeenumber#phrase.navigation = {clientemployeenumber} {this,PARTITIVE_ARTICLE}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Input.clientemployeenumber#phrase.subtraction_setter = retirer {clientemployeenumber} du clientemployeenumber {this,PARTITIVE_ARTICLE}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Input.clientexistenceduration#phrase.action = assigner le clientexistenceduration {this,PARTITIVE_ARTICLE} à {clientexistenceduration}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Input.clientexistenceduration#phrase.addition_setter = ajouter {clientexistenceduration} au clientexistenceduration {this,PARTITIVE_ARTICLE}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Input.clientexistenceduration#phrase.navigation = {clientexistenceduration} {this,PARTITIVE_ARTICLE}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Input.clientexistenceduration#phrase.subtraction_setter = retirer {clientexistenceduration} du clientexistenceduration {this,PARTITIVE_ARTICLE}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Input.clientindustry#phrase.action = assigner le clientindustry {this,PARTITIVE_ARTICLE} à {clientindustry}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Input.clientindustry#phrase.addition_setter = ajouter {clientindustry} au clientindustry {this,PARTITIVE_ARTICLE}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Input.clientindustry#phrase.navigation = {clientindustry} {this,PARTITIVE_ARTICLE}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Input.clientindustry#phrase.subtraction_setter = retirer {clientindustry} du clientindustry {this,PARTITIVE_ARTICLE}
+
+# usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Output
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Output#concept.label = Sortie de modèle ML
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Output.Output(java.lang.Double,java.lang.String,java.lang.Double)#phrase.navigation = une nouvelle {Sortie de modèle ML} tel que {0, confidence} {1, predicted clientdefaultedpayment} {2, weight} 
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Output.confidence#phrase.action = assigner le confidence {this,PARTITIVE_ARTICLE} à {confidence}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Output.confidence#phrase.addition_setter = ajouter {confidence} au confidence {this,PARTITIVE_ARTICLE}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Output.confidence#phrase.navigation = {confidence} {this,PARTITIVE_ARTICLE}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Output.confidence#phrase.subtraction_setter = retirer {confidence} du confidence {this,PARTITIVE_ARTICLE}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Output.predictedClientdefaultedpayment#phrase.action = assigner le predicted clientdefaultedpayment {this,PARTITIVE_ARTICLE} à {predicted clientdefaultedpayment}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Output.predictedClientdefaultedpayment#phrase.navigation = {predicted clientdefaultedpayment} {this,PARTITIVE_ARTICLE}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Output.weight#phrase.action = assigner le weight {this,PARTITIVE_ARTICLE} à {weight}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Output.weight#phrase.addition_setter = ajouter {weight} au weight {this,PARTITIVE_ARTICLE}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Output.weight#phrase.navigation = {weight} {this,PARTITIVE_ARTICLE}
+usr056.usr056_client_onboarding_decision.client_onboarding_lab.machinelearningscoreboard.Output.weight#phrase.subtraction_setter = retirer {weight} du weight {this,PARTITIVE_ARTICLE}
